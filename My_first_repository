@@ -1,1 +1,7 @@
-fd
+echo "# LR_1" >> README.mod
+git init
+git добавить README.mod
+git commit -m "первая фиксация"
+git branch -M main
+git удаленное добавление источника
+git push
